@@ -1,0 +1,40 @@
+{
+  "EngineName": "HalEngine",
+  "AssetName": "Asset",
+  "TargetPath": "Asset",
+  "SourcePath": "Project",
+  "AssetTypes": [
+    {
+      "Name": "Texture",
+      "TypeName": "Texture",
+      "Ignores": [ "nodata.png" ]
+    },
+    {
+      "Name": "Shader",
+      "TypeName": "ShaderResource",
+      "Ignores": [ "default" ],
+      "SubAssetTypes": [
+        {
+          "Name": "Material",
+          "TypeName": "Material"
+        }
+      ]
+    },
+    {
+      "Name": "Spine",
+      "TypeName": "SpineResource"
+    },
+    {
+      "Name": "Fbx",
+      "TypeName": "FbxResource",
+      "Ignores": [ ".*\\.(jpg|png|bmp|tga)" ],
+      "Options": [ "Folder" ]
+    },
+    {
+      "Name": "Model",
+      "TypeName": "ModelData",
+      "Ignores": [ ".*\\.(jpg|png|bmp|tga)" ],
+      "Options": [ "Folder" ]
+    }
+  ]
+}

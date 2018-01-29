@@ -1,0 +1,167 @@
+
+Anubis.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm0_left
+  rotate: false
+  xy: 398, 289
+  size: 218, 107
+  orig: 218, 107
+  offset: 0, 0
+  index: -1
+arm0_right
+  rotate: false
+  xy: 621, 403
+  size: 218, 107
+  orig: 218, 107
+  offset: 0, 0
+  index: -1
+arm1_left
+  rotate: false
+  xy: 669, 256
+  size: 120, 145
+  orig: 120, 145
+  offset: 0, 0
+  index: -1
+arm1_right
+  rotate: false
+  xy: 791, 196
+  size: 120, 145
+  orig: 120, 145
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 841, 343
+  size: 137, 167
+  orig: 137, 167
+  offset: 0, 0
+  index: -1
+car_back
+  rotate: false
+  xy: 791, 357
+  size: 44, 9
+  orig: 44, 9
+  offset: 0, 0
+  index: -1
+car_back_body
+  rotate: false
+  xy: 791, 368
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+car_back_left
+  rotate: false
+  xy: 754, 208
+  size: 12, 46
+  orig: 12, 46
+  offset: 0, 0
+  index: -1
+car_back_right
+  rotate: false
+  xy: 980, 418
+  size: 11, 42
+  orig: 11, 42
+  offset: 0, 0
+  index: -1
+car_body
+  rotate: false
+  xy: 670, 2
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+car_front
+  rotate: false
+  xy: 2, 2
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+car_front_body
+  rotate: false
+  xy: 78, 9
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+car_front_left
+  rotate: false
+  xy: 980, 462
+  size: 13, 48
+  orig: 13, 48
+  offset: 0, 0
+  index: -1
+car_front_right
+  rotate: false
+  xy: 913, 290
+  size: 10, 51
+  orig: 10, 51
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 670, 38
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+leg0_left
+  rotate: false
+  xy: 398, 157
+  size: 185, 130
+  orig: 185, 130
+  offset: 0, 0
+  index: -1
+leg0_right
+  rotate: false
+  xy: 398, 25
+  size: 185, 130
+  orig: 185, 130
+  offset: 0, 0
+  index: -1
+leg1_left
+  rotate: false
+  xy: 585, 12
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+leg1_right
+  rotate: false
+  xy: 669, 140
+  size: 83, 114
+  orig: 83, 114
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 585, 128
+  size: 82, 159
+  orig: 82, 159
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 398, 398
+  size: 221, 112
+  orig: 221, 112
+  offset: 0, 0
+  index: -1
+wing_left
+  rotate: false
+  xy: 2, 272
+  size: 394, 238
+  orig: 394, 238
+  offset: 0, 0
+  index: -1
+wing_right
+  rotate: false
+  xy: 2, 32
+  size: 394, 238
+  orig: 394, 238
+  offset: 0, 0
+  index: -1
